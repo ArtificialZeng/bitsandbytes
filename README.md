@@ -33,6 +33,9 @@ CUDA_VERSION=117 make cuda11x
 python setup.py install
 ```
 
+![image](https://github.com/ArtificialZeng/bitsandbytes/assets/39647839/04656a30-2bcc-4fb9-aa7d-f52a6e2db649)
+
+
 **Using Int8 inference with HuggingFace Transformers**
 
 ```python
